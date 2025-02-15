@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         🎬 Kinopoisk to Sspoisk 🚀
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/mrAsh4r/monkey_scripts
 // @version      3.0
 // @description  Автоматически меняет кнопку на "Смотреть" и перенаправляет на sspoisk.ru
-// @author       mrash4r
+// @author       mrAsh4r
 // @match        *://www.kinopoisk.ru/*
 // @grant        none
 // ==/UserScript==
